@@ -1,0 +1,1 @@
+javac -d mods --module-source-path src src/com.claudiodesio.phonebook.data/module-info.java src/com.claudiodesio.phonebook.data/com/claudiodesio/phonebook/data/*.java

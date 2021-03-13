@@ -1,0 +1,2 @@
+javac -d mods --module-source-path src src/com.claudiodesio.spi/module-info.java src/com.claudiodesio.spi/com/claudiodesio/spi/* src/com.claudiodesio.docs/module-info.java src/com.claudiodesio.docs/com/claudiodesio/docs/* src/com.claudiodesio.factory/module-info.java src/com.claudiodesio.factory/com/claudiodesio/factory/* src/com.claudiodesio.handlers/module-info.java src/com.claudiodesio.handlers/com/claudiodesio/handlers/* src/com.claudiodesio.client/module-info.java src/com.claudiodesio.client/com/claudiodesio/client/*
+pause;

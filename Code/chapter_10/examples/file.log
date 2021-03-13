@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-08T21:34:23.635721700Z</date>
+  <millis>1557351263635</millis>
+  <nanos>721700</nanos>
+  <sequence>0</sequence>
+  <logger>LoggingExample</logger>
+  <level>INFO</level>
+  <class>LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Log Level INFO</message>
+</record>
+</log>

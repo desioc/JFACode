@@ -1,0 +1,1 @@
+La risposta corretta è la 6, infatti l’output è il seguente

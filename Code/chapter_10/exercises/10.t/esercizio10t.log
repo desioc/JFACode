@@ -1,0 +1,16 @@
+mag 02, 2020 5:45:52 PM Exercise10T main
+INFO: Main() method called
+mag 02, 2020 5:45:52 PM Exercise10T start
+INFO: Start() method called
+mag 02, 2020 5:45:58 PM Exercise10T start
+SEVERE: null
+mag 02, 2020 5:45:58 PM Exercise10T start
+INFO: Start() method called
+mag 02, 2020 5:46:08 PM Exercise10T start
+SEVERE: Character o is neither a decimal digit number, decimal point, nor "e" notation exponential mark.
+mag 02, 2020 5:46:08 PM Exercise10T start
+INFO: Start() method called
+mag 02, 2020 5:46:12 PM Exercise10T start
+FINE: Kelvin scale in use
+mag 02, 2020 5:46:12 PM Exercise10T main
+INFO: Program terminated

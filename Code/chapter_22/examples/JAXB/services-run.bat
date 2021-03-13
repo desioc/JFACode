@@ -1,0 +1,1 @@
+"C:\Program Files\Java\jdk-9.0.4\bin\java" --module-path mods -m com.claudiodesio.jaxb/com.claudiodesio.jaxb.JAXBExample
